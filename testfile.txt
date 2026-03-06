@@ -1,2 +1,3 @@
 TEST-updated-7 remote
 Updated line 2
+New line local
