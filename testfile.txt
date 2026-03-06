@@ -1,3 +1,3 @@
-TEST-updated-7 remote
+TEST-updated-8 remote
 Updated line 2
 New line local
