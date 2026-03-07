@@ -1,2 +1,6 @@
 TEST--updated--- test
+<<<<<<< Updated upstream
 new line modified-9
+=======
+new line modified-5
+>>>>>>> Stashed changes
