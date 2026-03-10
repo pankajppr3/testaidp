@@ -1,2 +1,2 @@
 new line modified-1555--remote
-new line modified-5--remote--commit6
+new line modified-5--remote--commit7
