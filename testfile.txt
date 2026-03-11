@@ -1,3 +1,3 @@
-updated with new content--updated first
+updated with new content--updated first--2
 Updated line 2-
 New line remote -updated for conflict
