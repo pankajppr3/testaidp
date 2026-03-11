@@ -1,1 +1,3 @@
-updated with new content--commit2
+updated with new content--updated first
+Updated line 2-
+New line remote -updated for conflict
