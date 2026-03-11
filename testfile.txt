@@ -1,3 +1,1 @@
-updated with new content--updated first--2
-Updated line 2-
-New line remote -updated for conflict
+updated with new content--git update
