@@ -1,6 +1,6 @@
 BASE Branch content
 
 Content-Line-1
-Content-Line-2
+Content-Line-2--updated in base
 Content-Line-3
 Content-Line-4
