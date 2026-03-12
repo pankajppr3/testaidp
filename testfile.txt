@@ -1,2 +1,3 @@
-Resolved conflict
-
+conflict resolved
+updated-1
+updated-2--in test1_1
