@@ -1,5 +1,5 @@
 TEST--updatedpj-resolved
 Added a new line in base
-Added a new line in base2
+Updated a new line in base2
 Updated a new line in base3
 Updated a new line in base4
