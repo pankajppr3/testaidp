@@ -1,5 +1,2 @@
-ttessstt.. updated for conflict in 
-updated-1
-updated-2--in test1_1
-
+Resolved conflict
 
