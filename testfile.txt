@@ -1,6 +1,6 @@
 CHILD Branch content
 
 Content-Line-1
-Content-Line-2--updated in base
+Content-Line-2--Modified in child
 Content-Line-3
 Content-Line-4-Updated
