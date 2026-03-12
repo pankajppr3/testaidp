@@ -1,4 +1,4 @@
-TEST--updatedpj--conflictchild
+TEST--updatedpj--conflictresolved
 Added a new line in base
 Added a new line in base2
 Added a new line in base3
