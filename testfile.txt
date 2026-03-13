@@ -3,5 +3,5 @@ CHILD Branch content
 Content-Line-1
 Content-Line-2-Resolved conflict in idl
 Content-Line-3
-Content-Line-4-Updated
-
+Content-Line-4-Updated test
+added new line
